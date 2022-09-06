@@ -1,37 +1,43 @@
-# {{ New Group Name }} {{ New Group Type }} Charter
+# Automotive SIG Charter
+The Automotive SIG provides a global forum for technical and strategic input into activities enabling or accelerating adoption of RISC-V related technology in the Automotive industry.
 
-## Directions for creating a charter
-The information in this file should be created as part of the group formation and approved by your sponsoring group.  See the [Chairs Best Practices policy](https://docs.google.com/document/d/1rtXskVd7YyFq74tQ2OrInyM_-OQa228R5UZs5Pm3Vz0/) for more details.
+## Definitions
 
-A good Task Group (TG) charter describes how it achieves filling in a gap defined by the Special Interest Group (SIG) or Committee that spawned it (directly or dotted line). It lists the specific small set of  deliverables it will deliver.
+**ADAS** is Advanced Driver Assistance Systems. While aimed at assisting a human driver, ADAS systems use many of the technologies required for autonomous vehicles, so investment in these technologies represent a good step towards autonomy.
 
-A SIG is an extension of a Committee, in that its only deliverables are strategy, gaps, and prioritizations, and helping spawn other SIGs or TGs to fill the gaps. A good SIG charter spells out the small set of topic areas their strategy will address along with its responsibilities as laid out in this bullet.
+**V2X** is Vehicle to X communications. X may be used directly to refer to all vehicle communications, or replaced by a variety of letters to denote Vehicle, Infrastructure, Network, Pedestrian, Device or Grid (and others!)
 
-In the next section is a raw template.  Delete the section header and substitute appropriate text in for [ALL CAPS ITEMS AS DESCRIBED].
+**ASIL** is Automotive Safety Integrity Level, as defined in ISO 26262. 4 levels are specified, ranging from ‘ASIL-A’ applicable to the systems with the lowest degree of hazard, to ‘ASIL-D’ for systems with the highest.
 
-**Delete this whole section when done.**
+## Background
 
-## Raw template
+The global automotive industry is in the midst of its greatest disruption for decades, driven by the switch away from fossil fuels and the progression towards autonomous vehicles - coupled with increasing consumer demand for advanced technologies and the growing capability of onboard processing and communications infrastructure. This disruption provides a rare opportunity for new compute architectures to achieve rapid adoption, but it is already well underway and gathering pace.
 
-The {{ New Group Name }} {{ New Group Type }} will [OVERALL MISSION STATEMENT in 2-3 
-SENTENCES]
+## Scope
 
-[THIS PARAGRAPH IS OPTIONAL]
-The [TERM 1] IS [DEFINITION 1].  [EXPLANATION  OF IMPORTANCE OF TERM 1]. [MORE TERMS AND DEFINITIONS AS NEEDED]
+The scope of the Automotive SIG will include:
 
-[BACKGROUND INFORMATION ABOUT RELEVANCE OF GROUP/TECHNOLOGY]
+- Creating and maintaining a “gap analysis” identifying aspects currently missing in the RISC-V ecosystem to effectively address the Automotive market.\n - Prioritisation of activities to address identified gaps.
+- Proposing or interfacing with industry initiatives to enable and promote the adoption of RISC-V in Automotive applications.
+- Development (through task groups) of technologies to advance the safety, security, functionality and performance of automotive systems.
+- Activities to develop the ecosystem support from OS, Software and tools organisations.
 
-The {{ New Group Name }} {{ New Group Type }} will [DELIVER SOMETHING] [WITH THESE ATTRIBUTES]:
+It will aim to improve the ease of adoption of RISC-V based technology in:
 
- - [ATTRIBUTE 1]
- - [ATTRIBUTE 2]
- - [... AS NEEDED]
+- Safety critical system from ASIL-A to ASIL-D
+- ADAS and autonomous vehicles
+- Drivetrain management
+- Body control
+- V2x communications
 
-[THIS PARAGRAPH AND LIST ARE OPTIONAL, ESPECIALLY IF THE LIST IS EMPTY]
-The following items are presently not planned to be delivered as part of this work, but may be considered in future versions:
+It is not currently envisioned that the Automotive SIG or the task groups it oversees will propose or request changes to the RISC-V ISA.
 
- 1. [FEATURE 1]
- 1. [FEATURE 2]
- 1. [... AS NEEDED]
+To achieve its goals, the Automotive SIG will interact with the following groups:
+- Functional Safety SIG
+- Trusted Computing SIG
+- SOC Infrastructure HC
+- Other groups as applicable
+ 
+## Deliverables
 
-To achieve its goals, the {{ New Group Name }} {{ New Group Type }}, will interact with the following groups: [GROUP NAME 1] [GROUP TYPE 1], [GROUP NAME 2] [GROUP TYPE 2], [...] and [GROUP NAME N] [GROUP TYPE N]. 
+The Automotive SIG will not deliver any specifications, standards or recommendations. It will develop overall strategy and establish priorities, then create task groups to develop any identified outputs.
