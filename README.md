@@ -1,7 +1,5 @@
 
-# {{ New Group Name }}
+# Automotive SIG
 
-This repository represents an administrative repository for the {{ New Group Name }}.  
-It should contain documents to facilitate the group function, e.g. meeting minutes and supporting documents.
-It should not contain code nor specifications.
+The Automotive SIG provides a global forum for technical and strategic input into activities enabling or accelerating adoption of RISC-V related technology in the Automotive industry.
 
