@@ -17,7 +17,8 @@ The global automotive industry is in the midst of its greatest disruption for de
 
 The scope of the Automotive SIG will include:
 
-- Creating and maintaining a “gap analysis” identifying aspects currently missing in the RISC-V ecosystem to effectively address the Automotive market.\n - Prioritisation of activities to address identified gaps.
+- Creating and maintaining a “gap analysis” identifying aspects currently missing in the RISC-V ecosystem to effectively address the Automotive market. 
+- Prioritisation of activities to address identified gaps.
 - Proposing or interfacing with industry initiatives to enable and promote the adoption of RISC-V in Automotive applications.
 - Development (through task groups) of technologies to advance the safety, security, functionality and performance of automotive systems.
 - Activities to develop the ecosystem support from OS, Software and tools organisations.
