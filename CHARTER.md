@@ -33,6 +33,7 @@ It will aim to improve the ease of adoption of RISC-V based technology in:
 - Drivetrain management
 - Body control
 - V2x communications
+- In-vehicle and supporting systems, such as charging points, road infrastructure and communication networks
 
 It is not currently envisioned that the Automotive SIG or the task groups it oversees will propose or request changes to the RISC-V ISA.
 
