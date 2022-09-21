@@ -13,7 +13,7 @@ The Automotive SIG provides a global forum for technical and strategic input int
 
 ## Background
 
-The global automotive industry is in the midst of its greatest disruption for decades, driven by the switch away from fossil fuels and the progression towards autonomous vehicles - coupled with an increasing consumer demand for advanced functionality. This is being realised through vastly increased capability and centralisation of onboard compute, and a move from domain to zonal based arichitectures. These trends lead to a massive increase in the requirements for both in-vehicle and V2X communications. This disruption provides a rare opportunity for new compute architectures to achieve rapid adoption, but it is already well underway and gathering pace.
+The global automotive industry is in the midst of its greatest disruption for decades, driven by the switch away from fossil fuels and the progression towards autonomous vehicles - coupled with an increasing consumer demand for advanced functionality. This is being realised through vastly increased capability and centralisation of onboard compute, and a move from domain to zonal based architectures. These trends lead to a massive increase in the requirements for both in-vehicle and V2X communications. This disruption provides a rare opportunity for new compute architectures to achieve rapid adoption, but it is already well underway and gathering pace.
 
 ## Scope
 
